@@ -1,1 +1,55 @@
-
+{
+    "licenses": {
+        "PK-Z8F7-89YL-2P4Y": {
+            "key": "PK-Z8F7-89YL-2P4Y",
+            "status": "active",
+            "expires_at": "2030-12-31",
+            "domains": ["yoursite1.com", "www.yoursite1.com"],
+            "install_id": "",
+            "note": "Client 1",
+            "nonce": "",
+            "sig": "24e99438bdd2363b8cea021482d603eaf612799d90af01c128f5f0adedd92990"
+        },
+        "PK-LVQ9-JGJH-LHQT": {
+            "key": "PK-LVQ9-JGJH-LHQT",
+            "status": "active",
+            "expires_at": "2030-12-31",
+            "domains": ["yoursite2.com", "www.yoursite2.com"],
+            "install_id": "",
+            "note": "Client 2",
+            "nonce": "",
+            "sig": "ad5d22d25883ed39e1dadd2d2bf35bf06138088deb6c98063a6c3459ae7e7f61"
+        },
+        "PK-GHZW-E8RL-FV36": {
+            "key": "PK-GHZW-E8RL-FV36",
+            "status": "active",
+            "expires_at": "2030-12-31",
+            "domains": ["yoursite3.com", "www.yoursite3.com"],
+            "install_id": "",
+            "note": "Client 3",
+            "nonce": "",
+            "sig": "6845783694f775fe2155b7d9652d34905a05dedb59b4c76298babc25a5ed87d8"
+        },
+        "PK-YQFR-46JC-ERCX": {
+            "key": "PK-YQFR-46JC-ERCX",
+            "status": "active",
+            "expires_at": "2030-12-31",
+            "domains": ["yoursite4.com", "www.yoursite4.com"],
+            "install_id": "",
+            "note": "Client 4",
+            "nonce": "",
+            "sig": "8d4cee0310913db5459ee6fe1fc0cecc365e9bf9b58c1df95620a4ffc2c803a0"
+        },
+        "PK-U6S2-3S9M-3YKN": {
+            "key": "PK-U6S2-3S9M-3YKN",
+            "status": "active",
+            "expires_at": "2030-12-31",
+            "domains": ["yoursite5.com", "www.yoursite5.com"],
+            "install_id": "",
+            "note": "Client 5",
+            "nonce": "",
+            "sig": "fd5bde54ae1272120ab03da188a1398f7402b7797103034fe61d9956e1398638"
+        }
+    },
+    "generated_at": "2026-10-09T04:19:37+00:00"
+}
