@@ -3,16 +3,15 @@
         "1234": {
             "key": "1234",
             "status": "active",
-            "expires_at": "2027-12-31",
+            "expires_at": "2028-12-31",
             "domains": [
-                "robi444.com",
-                "www.robi444.com"
+                "https://robi44.com.robi.com.https://robi444.live.robi444.live"
             ],
-            "note": "pp",
+            "note": "",
             "install_id": "",
             "nonce": "",
-            "sig": "5706163c30bfaf3df6cebea58db030a66c0e5307599157267eb6347e9694f227"
+            "sig": "074f2b7ad731b6aeb57722c4bc95d317d8a4aec3b0e41237ddfa6e05ea8e858a"
         }
     },
-    "generated_at": "2026-10-09T05:38:41+00:00"
+    "generated_at": "2026-11-10T14:17:19+00:00"
 }
