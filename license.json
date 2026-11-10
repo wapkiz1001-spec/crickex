@@ -5,13 +5,16 @@
             "status": "active",
             "expires_at": "2028-12-31",
             "domains": [
-                "https://robi44.com.robi.com.https://robi444.live.robi444.live"
+                "robi44.com",
+                "www.robi44.com",
+                "robi444.live",
+                "www.robi444.live"
             ],
             "note": "",
             "install_id": "",
             "nonce": "",
-            "sig": "074f2b7ad731b6aeb57722c4bc95d317d8a4aec3b0e41237ddfa6e05ea8e858a"
+            "sig": "74cef62aa5c36ff08da51574c93755e8a7dfc218b3cc189ea1ca13d76fa0d860"
         }
     },
-    "generated_at": "2026-11-10T14:17:19+00:00"
+    "generated_at": "2026-11-10T14:30:44+00:00"
 }
